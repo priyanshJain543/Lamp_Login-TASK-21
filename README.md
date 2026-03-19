@@ -2,8 +2,9 @@
 
 A whimsical, interactive login interface where a draggable SVG lamp cord toggles the visibility of a "glowing" login form. Built with heavy focus on SVG animations and dynamic CSS variables.
 
-## 🔗 Live Demo
-[**Click here to view the Live Demo**]() 🚀
+## 🚀 Live Demo
+Check out the live application here:  
+👉 **[Live Project Link](https://priyanshjain543.github.io/Lamp_Login-TASK-21/)** 
 
 ---
 
